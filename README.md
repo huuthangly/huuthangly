@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huu Thang Ly</h1>
 <h3 align="center">A passionate computer engineering student at Florida International University</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="250" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 - 📫 How to reach me **hly003@fiu.edu**
 
