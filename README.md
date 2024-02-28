@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huu Thang Ly</h1>
 <h3 align="center">A passionate computer engineering student at Florida International University</h3>
-<img align="right" alt="Coding" width="250" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 - 📫 How to reach me **hly003@fiu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/huu-thang-ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/huu-thang-ly" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huu-thang-ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huu-thang-ly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
